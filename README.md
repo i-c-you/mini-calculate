@@ -1,7 +1,7 @@
 ### การสร้าง HTML ตามรูปแบบที่กำหนดให้
 
 ตลิก link \[ [Figma](https://www.figma.com/design/cLKdrG7KzQB65UygvLbNSu/Dev-Test?node-id=0-1&t=uEazXJLpPeHycSv3-0) \] เพื่อดู Design
-Library : > Boostrap | jQueury
+> Library : Boostrap | jQueury
 
 โดยกำหนดเป้าหมายดังนี้
 * Input ราคาอสังหาฯ
