@@ -2,6 +2,10 @@
 
 ตลิก link \[ [Figma](https://www.figma.com/design/cLKdrG7KzQB65UygvLbNSu/Dev-Test?node-id=0-1&t=uEazXJLpPeHycSv3-0) \] เพื่อดู Design
 > Library : Boostrap | jQueury | Javascript | etc.
+> Default value
+> ราคาอสังหาฯ = 1,800,000
+> อัตราดอกเบี้ย = 6.5
+> จำนวนปี = 30
 
 โดยกำหนดเป้าหมายดังนี้
 * Input ราคาอสังหาฯ
@@ -19,3 +23,12 @@
   * ไม่สามารถใส่ 0 ได้ในตัวแรก
   * ในกรณี copy text จากที่อื่น มาวาง จะต้องเข้าเงื่อนข้างต้นด้านบนทั้งหมด
   * เมื่อลบข้อมูล input ทั้งหมดจะต้องมี Error message ตาม Design และเมื่อ on input border จะต้องเปลี่ยนสีตาม Design พร้อมกับ Error message จะต้องหายไป
+* Input จำนวนปี
+  * กรอกได้แค่ตัวเลขเท่านั้น
+  * ใส่จำนวนได้ไม่เกิน 99
+  * ไม่สามารถใส่ 0 ได้ในตัวแรก
+  * ในกรณี copy text จากที่อื่น มาวาง จะต้องเข้าเงื่อนข้างต้นด้านบนทั้งหมด
+  * เมื่อลบข้อมูล input ทั้งหมดจะต้องมี Error message ตาม Design และเมื่อ on input border จะต้องเปลี่ยนสีตาม Design พร้อมกับ Error message จะต้องหายไป
+
+ * ล้างข้อมูล
+  * Input ต่างๆ กลับสู่ default ทั้งหมด
