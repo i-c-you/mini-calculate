@@ -14,8 +14,8 @@
 > รายได้ขั้นต่ำต่อเดือน คำนวนจาก ( ราคาอสังหาฯ / 650,000 ) * 10,000
 >
 > ยอดผ่อนต่อเดือน คำนวนจาก
-> 
->  ![Screenshot 2567-08-15 at 13 57 34](https://github.com/user-attachments/assets/312b7c23-140d-4ba2-8b8c-31af02df104e)
+> ตัวอย่างการคำนวน
+> ![Screenshot 2567-08-15 at 13 57 34](https://github.com/user-attachments/assets/312b7c23-140d-4ba2-8b8c-31af02df104e)
 
 >    
 ---
